@@ -1,0 +1,12 @@
+[debug] Running TaskDef(recfun.PascalSuite, org.scalatest.tools.Framework$$anon$1@654ad0e1, false, [SuiteSelector])
+[debug] Running TaskDef(recfun.BalanceSuite, org.scalatest.tools.Framework$$anon$1@654ad0e1, false, [SuiteSelector])
+[debug] Running TaskDef(recfun.CountChangeSuite, org.scalatest.tools.Framework$$anon$1@654ad0e1, false, [SuiteSelector])
+[info] Run completed in 247 milliseconds.
+[info] Total number of tests run: 11
+[info] Suites: completed 3, aborted 0
+[info] Tests: succeeded 11, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	recfun.CountChangeSuite
+[debug] 	recfun.PascalSuite
+[debug] 	recfun.BalanceSuite
